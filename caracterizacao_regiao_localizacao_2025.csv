@@ -1,0 +1,11 @@
+NO_REGIAO,localizacao,n,percentual_regiao
+Centro-Oeste,Rural,1848,15.8
+Centro-Oeste,Urbana,9836,84.2
+Nordeste,Rural,35834,48.2
+Nordeste,Urbana,38501,51.8
+Norte,Rural,15620,62.2
+Norte,Urbana,9502,37.8
+Sudeste,Rural,11664,15.6
+Sudeste,Urbana,62903,84.4
+Sul,Rural,5009,17.6
+Sul,Urbana,23475,82.4

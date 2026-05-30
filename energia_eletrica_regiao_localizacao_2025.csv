@@ -1,0 +1,11 @@
+NO_REGIAO,localizacao,energia_rede_publica,energia_inexistente
+Centro-Oeste,Rural,96.6,0
+Centro-Oeste,Urbana,99,0
+Nordeste,Rural,98.9,0.5
+Nordeste,Urbana,98.7,0
+Norte,Rural,66.9,12.3
+Norte,Urbana,99,0.1
+Sudeste,Rural,99.6,0
+Sudeste,Urbana,99.7,0
+Sul,Rural,99.6,0.1
+Sul,Urbana,99.6,0

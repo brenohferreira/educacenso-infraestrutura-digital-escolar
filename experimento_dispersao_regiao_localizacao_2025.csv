@@ -1,0 +1,11 @@
+NO_REGIAO,localizacao,escolas,indice_medio,vulnerabilidade_media,grupo
+Centro-Oeste,Rural,1848,3.86,4.14,Centro-Oeste Rural
+Centro-Oeste,Urbana,9836,5.13,2.87,Centro-Oeste Urbana
+Nordeste,Rural,35834,2.98,5.02,Nordeste Rural
+Nordeste,Urbana,38501,4.56,3.44,Nordeste Urbana
+Norte,Rural,15620,2.06,5.94,Norte Rural
+Norte,Urbana,9502,4.67,3.33,Norte Urbana
+Sudeste,Rural,11664,2.39,5.61,Sudeste Rural
+Sudeste,Urbana,62903,4.81,3.19,Sudeste Urbana
+Sul,Rural,5009,4.3,3.7,Sul Rural
+Sul,Urbana,23475,5.4,2.6,Sul Urbana
