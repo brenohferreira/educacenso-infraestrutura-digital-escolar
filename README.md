@@ -42,7 +42,7 @@ A reprodução das análises pode ser realizada por meio da execução sequencia
 
 Doutorando em Ciência da Informação (UFMG)  
 Mestre em Educação e Docência (UFMG)  
-MBA em Data Science e Analytics (ESALQ/USP)  
+MBA em Data Science e Analytics (USP)  
 MBA em Gestão de Projetos (USP)
 
 📧 brenohferreira@ufmg.br
